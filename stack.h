@@ -1,6 +1,6 @@
 #ifndef STACK_H
 #define STACK_H
-#define STACK_DEBUG_CONTROL
+#define STACK_DEBUG
 #include <stdbool.h> 
 
 typedef int Item;
